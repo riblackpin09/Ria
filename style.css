@@ -1,0 +1,60 @@
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    text-shadow: none;
+}
+
+input {
+    background: grey
+}
+
+travel_main_Div {
+    border: 1px solid black;
+}
+
+travel_main_Div img {
+    width: 100%;
+}
+
+.environment_li h4 {
+    border-bottom: 1px solid black;
+    padding: 8px;
+
+}
+
+.environment_li {
+    margin-top: 13px;
+
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+
+}
+
+.modal-content {
+    margin-top: 100px;
+
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
